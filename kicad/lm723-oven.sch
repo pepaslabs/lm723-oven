@@ -53,7 +53,6 @@ LIBS:opto
 LIBS:atmel
 LIBS:contrib
 LIBS:valves
-LIBS:lm723-oven-cache
 EELAYER 27 0
 EELAYER END
 $Descr USLetter 11000 8500
@@ -469,8 +468,8 @@ Wire Wire Line
 Connection ~ 2350 3500
 Text GLabel 3400 3500 2    40   Input ~ 0
 11.4V
-Text Notes 1000 1000 0    120  ~ 0
+Text Notes 1850 1450 0    120  ~ 0
 Blackdog's oven controller
-Text Notes 1050 1200 0    60   ~ 0
+Text Notes 1900 1650 0    60   ~ 0
 https://www.eevblog.com/forum/metrology/small-oven-controler-for-voltage-reference/?all;PHPSESSID=s4qqneiki7ie6jof3d2rn7obe4
 $EndSCHEMATC
